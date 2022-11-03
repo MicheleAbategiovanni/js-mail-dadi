@@ -1,0 +1,27 @@
+.bg {
+  background-image: url(../img/tavolo-casino.jpg);
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 451px;
+  position: relative;
+  top: 100px;
+  margin: auto;
+}
+
+.user_casino {
+  position: absolute;
+  top: 102px;
+  right: 28px;
+}
+
+.cpu_casino {
+    position: absolute;
+    top: 73px;
+    right: 139px;
+  }
+  
+  .ps-result{
+    position: relative;
+    left:30px;
+    bottom: 10px;
+  }
