@@ -1,7 +1,12 @@
 body{
-    height: 100vh;
+    background-image: url(../img/background.png);
+    background-color: #212121;
 }
 
-*{
-    border: 1px dashed red;
+.text-green{
+    color: #7ff800;
+}
+
+.border-right{
+    border-right: 5px solid black;
 }
